@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+ol{
+    border-radius: 50px;
+}
+p{
+    text-align: justify;
+    text-decoration: solid;
+}
+li{
+    text-transform: none;
+    size: 50px;
+    size-adjust: 30px;
+}
+head{
+    background-color: aliceblue;
+}
+img{
+    width: 700px;
+    height: 700px;
+}
+a{
+    display: block;
+    text-align: center;
+    width: 100px;
+    font-size: 50px;
+    padding: 15px 30px;
+    margin: 10px 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
